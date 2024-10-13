@@ -30,7 +30,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/shivam2503/
 
 ## Model
 
-A **Linear Regression** model has been used to predict the diamond price. Additional models like **Random Forest** and **Decision Trees** were also tested.
+A **Linear Regression** model has been used to predict the diamond price. Additional models like **Lasso**,**Ridge** and **Elasticnet** were also tested.
 
 ## Installation
 
